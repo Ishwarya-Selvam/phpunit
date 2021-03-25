@@ -1,7 +1,7 @@
 <?php
 // Uncomment the next line if you're using a dependency loader (such as Composer) (recommended)
 require 'vendor/autoload.php';
-$API_KEY = "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";
+$API_KEY = "";
 
 // Uncomment the next line if you're not using a dependency loader (such as Composer), replacing <PATH TO> with the path to the sendgrid-php.php file
 // require_once '<PATH TO>/sendgrid-php.php';
